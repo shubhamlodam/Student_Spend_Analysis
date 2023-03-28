@@ -1,5 +1,9 @@
 <h1 align="center">🎯Student Spend Analysis</h1>
 
+![studentspend](https://user-images.githubusercontent.com/106533333/228145407-a892580c-34df-4929-b78a-13a23735a8bb.png)
+
+
+
 There are many stores in which a survey was conducted
 based on students i.e.
 how much they are spending on different kind of purchases
